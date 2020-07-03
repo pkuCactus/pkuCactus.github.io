@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chengdu, Sichuan University, 2012 - 2016
 * M.S. in Beijing, Peking University, 2016 - 2019
-    - Advisor: Prof. [Shiliang Zhang](www.pkuvmc.com)
+    - Advisor: Prof. [Shiliang Zhang](http://www.pkuvmc.com/)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
