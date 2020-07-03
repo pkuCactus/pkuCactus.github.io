@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chengdu, Sichuan University, 2012 - 2016
+* M.S. in Beijing, Peking University, 2016 - 2019
+    - Advisor: Prof. Shiliang Zhang
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2018 - April 2019: Inter, Auto Driving
+  * Horizon Robotics, Inc.
+  * Duties included: Research on the semantic segmentaion
+  * Supervisor: Dr. Yanhu Shan & Dr Ming Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Julia 2019 - present: 
+  * Noah Lab, Huawei
+  * Duties included: semantic segmentation, knowledge distillation
+  * Supervisor: Dr. Lingxi Xie
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,7 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +53,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+  <!-- 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of T-CSVT,
+ -->
