@@ -57,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer of T-PAMI, T-CSVT, T-ITS, SMCA
+* Reviewer of **T-PAMI, T-CSVT, T-ITS, SMCA**
