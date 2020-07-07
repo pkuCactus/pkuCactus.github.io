@@ -12,4 +12,4 @@ This paper is edge detection and the help of which to the optical flow, segmenta
 
 [Download paper here](http://pkuCactus.github.io/files/EAGER.pdf)
 
-Recommended citation: Jianzhong, He. (2019). &quot;EAGER: Edge-Aided imaGe undERstanding System&quot; <i>ICMR 2019</i>'
+Recommended citation: **Jianzhong He** and *etal*. (2019). &quot;EAGER: Edge-Aided imaGe undERstanding System&quot; <i>ICMR 2019</i>'

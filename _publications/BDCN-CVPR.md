@@ -12,4 +12,4 @@ This paper is about the edge detection of natural images, and we aplly a cascade
 
 [Download paper here](http://pkuCactus.github.io/files/BDCN-CVPR.pdf)
 
-Recommended citation: Jianzhong, He. (2019). &quot;Bi-Directional Cascade Network for Perceptual Edge Detection.&quot; <i>CVPR 2019</i>.
+Recommended citation: **Jianzhong He**, Shiliang Zhang and *etal*. (2019). &quot;Bi-Directional Cascade Network for Perceptual Edge Detection.&quot; <i>CVPR 2019</i>.
