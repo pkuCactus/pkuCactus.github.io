@@ -1,5 +1,6 @@
 ---
 title: "ATSO: Asynchronous Teacher-Student Optimizationfor Semi-Supervised Medical Image Segmentation"
+Author: Jianzhong He
 collection: publications
 permalink: /publication/ATSO
 excerpt: 'This paper is about the semi- and self- supervised segmentation of medical images and the auto driving scene.'
