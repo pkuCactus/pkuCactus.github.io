@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "  Jianzhong He"
+  name             : "<center>Jianzhong He</center>"
   avatar           : "profile.jpg"
-  bio              : "Algorithm Engineer @ Machine Vision Depart."
+  bio              : "<center>Algorithm Engineer </br>@</br> Machine Vision Depart.</center>"
   location         : "HaiDian District, BeiJing, China"
   employer         :
   pubmed           : 
