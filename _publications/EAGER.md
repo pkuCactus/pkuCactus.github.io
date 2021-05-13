@@ -6,7 +6,7 @@ excerpt: 'This paper is edge detection and the help of which to the optical flow
 date: 2019-04-01
 venue: 'ICMR'
 paperurl: 'http://pkuCactus.github.io/files/EAGER.pdf'
-citation: 'Jianzhong He and etal. (2019). &quot;EAGER: Edge-Aided imaGe undERstanding System&quot; <i>ICMR 2019</i>'
+citation: '<b>Jianzhong He</b> and etal. (2019). &quot;EAGER: Edge-Aided imaGe undERstanding System&quot; <i>ICMR 2019</i>'
 ---
 This paper is edge detection and the help of which to the optical flow, segmentation and proposal.
 

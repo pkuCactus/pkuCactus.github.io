@@ -6,7 +6,7 @@ excerpt: 'This paper is about edge detection, which to explore the multi-scale i
 date: 2020-06-30
 venue: 'IEEE T-PAMI'
 paperurl: 'http://pkuCactus.github.io/files/BDCN-PAMI.pdf'
-citation: 'Jianzhong He, Shiliang Zhang and etal. (2020). &quot;BDCN: Bi-Directional Cascade Network for Perceptual Edge Detection.&quot; <i>IEEE T-PAMI 2020</i>.'
+citation: '<b>Jianzhong He</b>, Shiliang Zhang and etal. (2020). &quot;BDCN: Bi-Directional Cascade Network for Perceptual Edge Detection.&quot; <i>IEEE T-PAMI 2020</i>.'
 ---
 This paper is about edge detection, which to explore the multi-scale information of images, and adopt the detected edges to help other high level vision tasks.
 
