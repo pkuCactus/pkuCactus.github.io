@@ -15,5 +15,6 @@ redirect_from:
 
 ## News
 
+- 2021.03, four papers on domain adaptation/semi-supervised are accepted by **CVPR**.
 - 2020.07, one paper on edge and contour detection is accepted by **IEEE T-PAMI**.
 - 2019.07, one paper accepted by **CVPR**.
