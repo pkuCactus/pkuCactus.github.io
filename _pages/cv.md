@@ -23,7 +23,7 @@ Work experience
   * Duties included: Research on the semantic segmentaion
   * Supervisor: Dr. Yanhu Shan & Dr Ming Yang
 
-* Julia 2019 - Present: Noah Lab., Machine Vision Depart.
+* Julia 2019 - Present: Noah’s Ark Lab., Machine Vision Depart.
   * Huawei Inc.
   * Duties included: semantic segmentation, knowledge distillation, abandoned object dectection
   * Supervisor: Dr. Lingxi Xie
